@@ -1,0 +1,2 @@
+# curut
+curut_nakal
